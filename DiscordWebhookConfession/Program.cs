@@ -1,6 +1,6 @@
 using JNogueira.Discord.Webhook.Client;
 
-namespace Confession_Discord_Webhook
+namespace DiscordWebhookConfession
 {
     internal static class Program
     {

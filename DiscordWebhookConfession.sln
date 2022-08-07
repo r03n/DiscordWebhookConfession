@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordWebhookConfession", "Confession Discord Webhook\DiscordWebhookConfession.csproj", "{CC43DC4B-7EFC-40F7-9137-41CA1A4F4E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordWebhookConfession", "DiscordWebhookConfession\DiscordWebhookConfession.csproj", "{CC43DC4B-7EFC-40F7-9137-41CA1A4F4E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

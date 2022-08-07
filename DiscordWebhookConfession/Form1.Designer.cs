@@ -1,4 +1,4 @@
-﻿namespace Confession_Discord_Webhook
+﻿namespace DiscordWebhookConfession
 {
     partial class Form1
     {
