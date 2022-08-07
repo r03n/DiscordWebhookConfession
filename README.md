@@ -1,6 +1,8 @@
 # Confession Discord Webhook
 Be sure to change this
+#
 public static string defaultWebhook = ""; // Your Discord Webhook Link
+#
 before sending to your crush. ;)
 
 Ex.
