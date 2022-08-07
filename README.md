@@ -6,7 +6,7 @@ public static string defaultWebhook = ""; // Your Discord Webhook Link
 ```
 
 
-Ex.
+Example:
 ```
 public static string defaultWebhook = "https://discord.com/api/webhooks/~"; // Your Discord Webhook Link
 ```
