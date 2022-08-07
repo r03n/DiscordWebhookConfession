@@ -15,3 +15,7 @@ Example:
 ```
 public static string defaultWebhook = "https://discord.com/api/webhooks/~"; // Your Discord Webhook Link
 ```
+
+Then "Build Solution" and you're good to go!
+
+Don't add any malicious code when you send it to your crush, you disgusting shit.
