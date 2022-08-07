@@ -16,7 +16,7 @@ Example:
 public static string defaultWebhook = "https://discord.com/api/webhooks/~"; // Your Discord Webhook Link
 ```
 
-Then "Build Solution" and you're good to go!
+Then **Build Solution** and you're good to go!
 
 (Use [ConfuserEx](https://github.com/mkaring/ConfuserEx/releases/) for single file.)
 
