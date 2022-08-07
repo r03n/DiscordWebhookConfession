@@ -2,6 +2,7 @@
 Simple Discord Webhook Confession Program written in C#
 
 ![Image](https://i.imgur.com/z3CrQLQ.png)
+
 ![Image](https://i.imgur.com/K2EwfTV.png)
 
 #
