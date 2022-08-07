@@ -18,7 +18,7 @@ Example:
 public static string defaultWebhook = "https://discord.com/api/webhooks/~";
 ```
 
-Then **Build Solution** and you're good to go!
+Then **Build Solution** and you're good to go! ~~Don't expect a yes for an answer.~~
 
 (Use [ConfuserEx](https://github.com/mkaring/ConfuserEx/releases/) for single file.)
 
