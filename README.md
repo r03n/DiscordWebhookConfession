@@ -19,3 +19,7 @@ public static string defaultWebhook = "https://discord.com/api/webhooks/~"; // Y
 Then "Build Solution" and you're good to go!
 
 **Don't add any malicious code when you send it to your crush, you disgusting shit.**
+
+#
+
+Use [ConfuserEx](https://github.com/mkaring/ConfuserEx/releases/) for single file.
