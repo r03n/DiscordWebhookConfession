@@ -15,7 +15,7 @@ public static string defaultWebhook = ""; // Your Discord Webhook Link
 
 Example:
 ```
-public static string defaultWebhook = "https://discord.com/api/webhooks/~"; // Your Discord Webhook Link
+public static string defaultWebhook = "https://discord.com/api/webhooks/~";
 ```
 
 Then **Build Solution** and you're good to go!
